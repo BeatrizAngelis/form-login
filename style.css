@@ -67,7 +67,7 @@ p{
     gap: 18px;
     align-items: center;
 }
-.btn{
+.btn {
     cursor: pointer;
     width: 250px;
     height: 40px;
@@ -86,7 +86,7 @@ p{
     transform: translateY(-0.25em);
 }
 
-.createAccount{
+.createAccountLink{
     font-size: 14px;
 }
 
