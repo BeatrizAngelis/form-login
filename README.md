@@ -7,9 +7,8 @@ Página de Login
 Página de Cadastro
 ![preview](./screenRegister.png)
 
-> Trilha Explorer
-
-Projeto construído do evento Next Level Week da Rockeatseat.
+![preview](gif/Login.gif)
+![preview](gif/Register.gif)
 
 [ Clique aqui para acessar](https://github.com/BeatrizAngelis/form-login/)
 
